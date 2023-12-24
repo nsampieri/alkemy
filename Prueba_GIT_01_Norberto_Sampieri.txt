@@ -2,3 +2,4 @@ Ejercicio 10 - GIT y GitHub
 QA Tester: Norberto Sampieri
 
 Este es un archivo de prueba para utilizar en el repositorio creado en el ejercicio 10
+Esta otra línea se agrega para cumplir con el paso F del ejercicio
